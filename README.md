@@ -109,7 +109,7 @@ Je n’ai pas créé le projet Supabase à ta place ici, car il faut tes propres
 
 ## 8. Suite recommandée.
 
-Pour aller plus loin :
+Pour aller plus loin :.
 
 - upload réel d’images avec Supabase Storage
 - édition / suppression d’annonces côté interface
