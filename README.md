@@ -107,7 +107,7 @@ README.md
 
 Je n’ai pas créé le projet Supabase à ta place ici, car il faut tes propres identifiants et ton propre compte. En revanche, **le schéma SQL, le code et le branchement à la base sont prêts**.
 
-## 8. Suite recommandée
+## 8. Suite recommandée.
 
 Pour aller plus loin :
 
